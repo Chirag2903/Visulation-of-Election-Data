@@ -28,7 +28,11 @@ Go to Help --> Setting and Performance --> Manage Analytics Extensions Coonectio
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/Chirag2903/Visulation-of-Election-Data/assets/100855095/dd2c5e2e-ec6f-4fb2-9ef3-ffcfc1b90e65)
+![image](https://github.com/Chirag2903/Visulation-of-Election-Data/assets/100855095/eabda7a8-067d-4817-89bf-72c9b18dfe1e)
+![image](https://github.com/Chirag2903/Visulation-of-Election-Data/assets/100855095/5686120a-6b30-4495-8579-9a9c17972ff5)
+![image](https://github.com/Chirag2903/Visulation-of-Election-Data/assets/100855095/a59e6c3f-4028-4ceb-821f-24c524d42ec1)
+
 
 
 
